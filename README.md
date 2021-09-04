@@ -1,4 +1,4 @@
-# Simple Template of LaTex
+# Simple Template of LaTeX
 
 - Simple
 - Separated files
