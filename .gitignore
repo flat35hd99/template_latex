@@ -4,6 +4,8 @@ src/*.dvi
 src/*.log
 src/*.synctex.gz
 src/*.pdf
+src/*.fls
+src/*.fdb_latexmk
 # bibtex
 src/*.bbl
 src/*.blg
